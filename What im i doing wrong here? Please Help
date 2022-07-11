@@ -1,0 +1,12 @@
+I have the index.html file in my Documents folder but still i get erros, im new to Linux and maybe im imputing the dir wrong or something.
+And this is SET, im trying to import a custom Web page for collect credentials.
+
+ERROR MESSAGE
+
+set:webattack> IP address for the POST back in Harvester/Tabnabbing [192.168......]:
+[!] Example: /home/website/ (make sure you end with /)
+[!] Also note that there MUST be an index.html in the folder you point to.
+set:webattack> Path to the website to be cloned:/home/Downloads/Documents/
+[!] ERROR:index.html not found!!
+[!] ERROR:Did you just put the path in, not file?
+[!] Exiting the Social-Engineer Toolkit...Hack the Gibson.
